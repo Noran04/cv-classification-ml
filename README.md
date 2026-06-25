@@ -99,8 +99,7 @@ The project evaluates:
 
 ```
 ├── README.md
-├── project_ML_final.ipynb
-├── PROJECT_ML_Report.pdf
+├── PROJECT_ML.pdf
 ```
 
 ---
