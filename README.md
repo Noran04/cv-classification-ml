@@ -1,10 +1,10 @@
-# CV Classification using Machine Learning & NLP
+## CV Classification using Machine Learning & NLP
 
 An AI-powered resume classification system that automatically predicts the most suitable job category from resume text using Natural Language Processing (NLP), Machine Learning, and Fairness Analysis.
 
 ---
 
-# Project Overview
+## Project Overview
 
 Recruiters often receive hundreds of resumes for each job opening, making manual screening slow, inconsistent, and prone to bias.
 
@@ -12,7 +12,7 @@ This project automates resume classification by transforming resume text into se
 
 ---
 
-# Project Objectives
+## Project Objectives
 
 - Automate CV classification
 - Reduce manual screening time
@@ -22,7 +22,7 @@ This project automates resume classification by transforming resume text into se
 
 ---
 
-# Dataset
+## Dataset
 
 The dataset contains resumes labeled with multiple job categories.
 Each record includes:
@@ -35,7 +35,7 @@ The dataset is multi-class and contains class imbalance, which was addressed usi
 
 ---
 
-# Technologies Used
+## Technologies Used
 
 - Python
 - Scikit-learn
@@ -52,9 +52,9 @@ The dataset is multi-class and contains class imbalance, which was addressed usi
 
 ---
 
-# Project Pipeline
+## Project Pipeline
 
-# Pipeline A — Resume Classification
+### Pipeline A — Resume Classification
 
 - Data Cleaning
 - Text Preprocessing
@@ -63,7 +63,7 @@ The dataset is multi-class and contains class imbalance, which was addressed usi
 - Logistic Regression
 - Performance Evaluation
 
-# Pipeline B — Fairness Analysis
+### Pipeline B — Fairness Analysis
 
 - TF-IDF Representation
 - Linear SVM
@@ -74,15 +74,15 @@ The dataset is multi-class and contains class imbalance, which was addressed usi
 
 ---
 
-# Model Performance
+## Model Performance
 
-# Resume Classification
+### Resume Classification
 
 - Accuracy ≈ 73%
 - Macro F1-score ≈ 0.66
 - ROC-AUC ≈ 0.97
 
-# Fairness Evaluation
+### Fairness Evaluation
 
 The project evaluates:
 
@@ -95,7 +95,7 @@ The project evaluates:
 
 ---
 
-# Repository Structure
+## Repository Structure
 
 ```
 ├── README.md
@@ -104,7 +104,7 @@ The project evaluates:
 
 ---
 
-# Future Improvements
+## Future Improvements
 
 - Larger and more balanced datasets
 - Deep Learning models
@@ -115,7 +115,7 @@ The project evaluates:
 
 ---
 
-# Team
+## Team
 
 - Noran Abdullah Aljodi
 - Rema Saed Althqfi
@@ -125,6 +125,6 @@ The project evaluates:
 
 ---
 
-# Supervisor
+## Supervisor
 
 Dr. Afaf M. Almehmadi
